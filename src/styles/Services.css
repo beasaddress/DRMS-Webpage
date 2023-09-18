@@ -1,0 +1,197 @@
+.services {
+    background-color: #ffffff;
+    height: 844px;
+    position: relative;
+    width: 921px;
+}
+
+.services .text-wrapper {
+    color: #000000;
+    font-family: "Inter-BlackItalic", Helvetica;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 900;
+    left: 354px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 30px;
+    white-space: nowrap;
+    width: 288px;
+}
+
+.services .line {
+    height: 1px;
+    left: 387px;
+    object-fit: cover;
+    position: absolute;
+    top: 79px;
+    width: 148px;
+}
+
+.services .div {
+    color: #000000;
+    font-family: "Inter-BlackItalic", Helvetica;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 900;
+    left: 354px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 582px;
+    white-space: nowrap;
+    width: 288px;
+}
+
+.services .overlap {
+    height: 47px;
+    left: 174px;
+    position: absolute;
+    top: 621px;
+    width: 558px;
+}
+
+.services .img {
+    height: 1px;
+    left: 205px;
+    object-fit: cover;
+    position: absolute;
+    top: 5px;
+    width: 148px;
+}
+
+.services .flexible-pricing {
+    color: #000000;
+    font-family: "Inter-Black", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 558px;
+}
+
+.services .span {
+    font-family: "Inter-BlackItalic", Helvetica;
+    font-style: italic;
+    font-weight: 900;
+}
+
+.services .text-wrapper-2 {
+    font-family: "Inter-ThinItalic", Helvetica;
+    font-style: italic;
+    font-weight: 100;
+}
+
+.services .overlap-group {
+    background-color: #000000;
+    border-radius: 50px;
+    height: 62px;
+    left: 334px;
+    position: absolute;
+    top: 710px;
+    width: 213px;
+}
+
+.services .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "Inter-BlackItalic", Helvetica;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 900;
+    left: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 10px;
+    width: 154px;
+}
+
+.services .safety-loss {
+    color: #000000;
+    font-family: "Inter-Black", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 95px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 243px;
+    width: 346px;
+}
+
+.services .safety-care {
+    height: 90px;
+    left: 84px;
+    position: absolute;
+    top: 143px;
+    width: 90px;
+}
+
+.services .risk-management {
+    color: #000000;
+    font-family: "Inter-Black", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 487px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 242px;
+    width: 353px;
+}
+
+.services .management {
+    height: 90px;
+    left: 482px;
+    position: absolute;
+    top: 143px;
+    width: 90px;
+}
+
+.services .claims-management {
+    color: #000000;
+    font-family: "Inter-Black", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 95px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 456px;
+    width: 346px;
+}
+
+.services .falling-man {
+    height: 90px;
+    left: 95px;
+    position: absolute;
+    top: 362px;
+    width: 90px;
+}
+
+.services .conclusion-contract {
+    height: 81px;
+    left: 477px;
+    position: absolute;
+    top: 362px;
+    width: 81px;
+}
+
+.services .contract-insurance {
+    color: #000000;
+    font-family: "Inter-Black", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 482px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 456px;
+    width: 353px;
+}

@@ -1,0 +1,75 @@
+.home-page {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    padding-top: 70px;
+    
+}
+
+.home-page .overlap-group-wrapper {
+    background-color: #ffffff;
+    height: 408px;
+    width: 843px;
+}
+
+.home-page .overlap-group {
+    background-image: url(../images/heroimg4.jpg);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 408px;
+    position: relative;
+}
+
+.home-page .text-wrapper {
+    color: #000000;
+    font-family: "Inter-BoldItalic", Helvetica;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 700;
+    left: 278px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 39px;
+    width: 298px;
+}
+
+.home-page .overlap {
+    background-image: url(../assets/rectangle-6.svg);
+    background-size: 100% 100%;
+    height: 41px;
+    left: 323px;
+    position: absolute;
+    top: 292px;
+    width: 154px;
+}
+
+.home-page .div {
+    color: #ffffff;
+    font-family: "Inter-BlackItalic", Helvetica;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 900;
+    left: 29px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 8px;
+    width: 113px;
+}
+
+.home-page .text-wrapper-2 {
+    color: #000000;
+    font-family: "Inter-ThinItalic", Helvetica;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 100;
+    left: 379px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 180px;
+    width: 244px;
+}

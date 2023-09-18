@@ -1,0 +1,56 @@
+.testimonials {
+    background-color: #ffffff;
+    height: 874px;
+    position: relative;
+    width: 957px;
+    
+    
+}
+
+
+.testimonials .testimonypage {
+    height: 470px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 957px;
+    
+}
+
+.testimonials .text-wrapper {
+    color: #000000;
+    font-family: "Inter-BlackItalic", Helvetica;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 900;
+    left: 256px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 488px;
+    white-space: nowrap;
+    width: 446px;
+}
+
+.testimonials .line {
+    height: 1px;
+    left: 313px;
+    object-fit: cover;
+    position: absolute;
+    top: 539px;
+    width: 285px;
+}
+
+.testimonials .i-hired-marco-in-the {
+    color: #000000;
+    font-family: "Inter-ThinItalic", Helvetica;
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 100;
+    left: 61px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 558px;
+    width: 817px;
+}

@@ -1,0 +1,90 @@
+.nav-bar {
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    flex-direction: flex;
+    list-style: none;
+}
+
+
+.nav-bar div {
+    background-color: white;
+    height: 200px;
+    position: relative;
+    width: 200px;
+    justify-content: center;
+
+}
+
+.nav-bar .text-wrapper {
+    color: #000000;
+    font-family: "Inter-BlackItalic", Helvetica;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 900;
+    left: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 14px;
+    width: 138px;
+    
+}
+
+.nav-bar .text-wrapper-2 {
+    color: #000000;
+    font-family: "Inter-BlackItalic", Helvetica;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 900;
+    
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 25px;
+    width: 47px;
+}
+
+.nav-bar .text-wrapper-3 {
+    color: #000000;
+    font-family: "Inter-BlackItalic", Helvetica;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 900;
+    
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 25px;
+    width: 75px;
+}
+
+.nav-bar .text-wrapper-4 {
+    color: #000000;
+    font-family: "Inter-BlackItalic", Helvetica;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 900;
+    
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 24px;
+    width: 95px;
+}
+
+.nav-bar .text-wrapper-5 {
+    color: #000000;
+    font-family: "Inter-BlackItalic", Helvetica;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 900;
+    justify-content: center;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 25px;
+    width: 73px;
+}

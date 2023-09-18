@@ -1,0 +1,118 @@
+.footer {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.footer .div {
+    background-color: #ffffff;
+    height: 195px;
+    position: relative;
+    width: 843px;
+}
+
+.footer .text-wrapper {
+    color: #000000;
+    font-family: "Inter-BlackItalic", Helvetica;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 900;
+    left: 23px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 15px;
+    white-space: nowrap;
+    width: 127px;
+}
+
+.footer .diversity-risk {
+    color: #000000;
+    font-family: "Inter-MediumItalic", Helvetica;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 500;
+    left: 23px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 44px;
+    width: 246px;
+}
+
+.footer .text-wrapper-2 {
+    color: #000000;
+    font-family: "Inter-MediumItalic", Helvetica;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 500;
+    left: 19px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 120px;
+    width: 134px;
+}
+
+.footer .overlap {
+    height: 87px;
+    left: 535px;
+    position: absolute;
+    top: 16px;
+    width: 121px;
+}
+
+.footer .overlap-group {
+    height: 87px;
+    left: 9px;
+    position: absolute;
+    top: 0;
+    width: 112px;
+}
+
+.footer .text-wrapper-3 {
+    color: #000000;
+    font-family: "Inter-BlackItalic", Helvetica;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 900;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 112px;
+}
+
+.footer .letter {
+    height: 71px;
+    left: 43px;
+    position: absolute;
+    top: 16px;
+    width: 51px;
+}
+
+.footer .linked-in {
+    height: 45px;
+    left: 0;
+    position: absolute;
+    top: 29px;
+    width: 52px;
+}
+
+.footer .p {
+    color: #929090;
+    font-family: "Inter-MediumItalic", Helvetica;
+    font-size: 13px;
+    font-style: italic;
+    font-weight: 500;
+    left: 275px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 163px;
+    width: 333px;
+}

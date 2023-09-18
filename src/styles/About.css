@@ -1,0 +1,159 @@
+.about {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.about .div {
+    background-color: #ffffff;
+    height: 1100px;
+    position: relative;
+    width: 877px;
+}
+
+.about .overlap-group {
+    background-image: url(../images/aboutimg1.jpg);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 410px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 877px;
+    /*filter: brightness(120%);*/
+}
+
+.about .text-wrapper {
+    color: #000000;
+    font-family: "Inter-BlackItalic", Helvetica;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 900;
+    left: 78px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 125px;
+    width: 721px;
+}
+
+.about .text-wrapper-2 {
+    color: #000000;
+    font-family: "Inter-BlackItalic", Helvetica;
+    font-size: 96px;
+    font-style: italic;
+    font-weight: 900;
+    left: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 98px;
+    white-space: nowrap;
+    width: 57px;
+}
+
+.about .text-wrapper-3 {
+    color: #000000;
+    font-family: "Inter-BlackItalic", Helvetica;
+    font-size: 96px;
+    font-style: italic;
+    font-weight: 900;
+    left: 512px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 239px;
+    white-space: nowrap;
+    width: 57px;
+}
+
+.about .text-wrapper-4 {
+    color: #000000;
+    font-family: "Inter-BlackItalic", Helvetica;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 900;
+    left: 345px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 423px;
+    white-space: nowrap;
+    width: 288px;
+}
+
+.about .line {
+    height: 2px;
+    left: 364px;
+    object-fit: cover;
+    position: absolute;
+    top: 471px;
+    width: 125px;
+}
+
+.about .DRMS-supports {
+    color: #000000;
+    font-family: "Inter-BlackItalic", Helvetica;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 900;
+    left: 72px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 486px;
+    width: 727px;
+}
+
+.about .overlap {
+    height: 187px;
+    left: 72px;
+    position: absolute;
+    top: 656px;
+    width: 730px;
+}
+
+.about .p {
+    color: #000000;
+    font-family: "Inter-BlackItalic", Helvetica;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 900;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 727px;
+}
+
+.about .text-wrapper-5 {
+    color: #000000;
+    font-family: "Inter-BlackItalic", Helvetica;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 900;
+    left: 3px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 89px;
+    width: 727px;
+}
+
+.about .text-wrapper-6 {
+    color: #000000;
+    font-family: "Philosopher-BoldItalic", Helvetica;
+    font-size: 32px;
+    font-style: italic;
+    font-weight: 700;
+    left: 39px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 857px;
+    width: 794px;
+}
